@@ -35,7 +35,7 @@ grails.project.dependency.resolution = {
     }
 
     plugins {
-        compile(':platform-core:1.0.RC5')
-        compile(':mail:1.0')
+//        compile(':platform-core:1.0.RC5')
+//        compile(':mail:1.0')
     }
 }
