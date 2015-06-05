@@ -35,8 +35,7 @@ grails.project.dependency.resolution = {
     }
 
     plugins {
-        compile(':quartz:1.0-RC2')
-	    compile(':platform-core:1.0.RC5')
+        compile(':platform-core:1.0.RC5')
         compile(':mail:1.0')
     }
 }
